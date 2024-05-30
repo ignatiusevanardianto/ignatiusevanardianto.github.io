@@ -46,7 +46,7 @@ ScrollReveal ({
 });
 
 ScrollReveal().reveal('.home-content, heading', {origin: 'top'});
-ScrollReveal().reveal('.home-img, .education-container, .experience-box, .license', {origin: 'buttom'});
+ScrollReveal().reveal('.home-img, .education-container', {origin: 'buttom'});
 ScrollReveal().reveal('.about-img', {origin: 'left'});
 ScrollReveal().reveal('.about-content', {origin: 'right'});
 
