@@ -545,7 +545,7 @@ span {
         flex-direction: column;
     }
     .about-img img {
-        width: 90vw;
+        width: 75vw;
         margin-top: 4rem;
     }
     .education h2 {
@@ -575,7 +575,7 @@ span {
         margin-top: 8rem;
     }
     .about-img img {
-        width: 100vw;
+        width: 50vw;
         margin-top: 4rem;
     }
 }
